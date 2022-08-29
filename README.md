@@ -8,3 +8,6 @@ This application interface update on every seconds as no. of Covid cases updates
 The User Interface of this application is like this.👇👇👇
 ![image](https://user-images.githubusercontent.com/81972382/187139724-10bc6603-f0cc-4414-bfa1-27e965e4fb9a.png)
 
+![image](https://user-images.githubusercontent.com/81972382/187142432-df138194-0e43-44e9-92e8-7d823803b7d7.png)
+
+Thanks for giving help to [Java Brains](https://www.youtube.com/watch?v=8hjNG9GZGnQ) during building of this project.
